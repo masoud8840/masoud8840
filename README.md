@@ -1,4 +1,5 @@
 ### Hi there 👋
+# I'm Junior MEVN stack developer with 3+ years of practical experience in front-end, Designing and building responsive web apps and design mockups. Proficient in front end, backend and UI design, with extensive knowledge of Vue.JS framework.
 
 <!--
 **masoud8840/masoud8840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
