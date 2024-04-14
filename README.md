@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Junior MEVN stack developer with 3+ years of practical experience in front-end, Designing and building responsive web apps and design mockups.<br>Proficient in front end, backend and UI design, with extensive knowledge of Vue.JS framework.
+A Junior MEVN stack developer with 2+ years of practical experience in front-end, Designing and building responsive web apps and design mockups.<br>Proficient in front end, backend and UI design, with extensive knowledge of Vue.JS framework.
 
 
 ## 🌐 Socials:
