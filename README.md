@@ -76,9 +76,9 @@ Trello and Jira.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=masoud8840&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+<img src="./profile/stats.svg" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoud8840&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<img src="./profile/top-langs.svg" height="170">
 
 </div>
 
@@ -88,17 +88,17 @@ Trello and Jira.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=masoud8840&theme=flat&no-frame=true&no-bg=true&column=6" />
+<img src="./profile/trophy.svg">
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=masoud8840&hide_border=true&theme=transparent" />
+<img src="./profile/snake.svg">
 
 </div>
 
